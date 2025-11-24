@@ -1,0 +1,17 @@
+# Arquivos temporários e de sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Scripts antigos (movidos para scripts/)
+# run.sh
+# run.bat
+# start-api.sh
+
